@@ -25,8 +25,8 @@ print()
 
 # Intializing value to all variable
 a=b=c="Aniket"
-print(a)
-print(b)
-print(c)
+print(a) #print Aniket
+print(b) #print Aniket
+print(c) #print Aniket
 
 
