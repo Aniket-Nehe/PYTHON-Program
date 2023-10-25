@@ -1,6 +1,6 @@
-# IF ELIF 
+# if elif 
 #Check the greather number of 3 value
-"""num1=int(input("Enter the 1st Number"))
+num1=int(input("Enter the 1st Number"))
 num2=int(input("Enter the 2nd Number"))
 num3=int(input("Enter the 3rd Number"))
 if(num1>num2):
@@ -8,7 +8,7 @@ if(num1>num2):
 elif(num2>num3):
     print("Second Number",num2,"Is Greather")
 elif(num3>num1):
-    print("Third Number",num3,"Is Greather")"""
+    print("Third Number",num3,"Is Greather")
 
 
 #Check the greather number of 4 value
