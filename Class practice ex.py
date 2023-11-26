@@ -205,4 +205,25 @@ if (year%4==0 and year%100!=0) or (year%400==0):
 else:
     print(year,"is Not A Leap Year")'''
 
+#19. find the greatest Amoung 3 number using lambda function ?
+'''a=lambda x,y,z:(x,y,z)
+print(a ,max(10,9,1))
+#input from user
+x=int(input("Enter the First Number : "))
+y=int(input("Enter the second Number : "))
+z=int(input("Enter the Third Number : "))
+a=lambda x,y,z: (x,y,z)
+print(a,max(x,y,z))'''
+
+
+#20. find the reverse of the stringwithout using slicing and reverse method.
+str="Aniket Nehe"
+rev=" "
+for i in str:
+    rev=i+rev
+print(rev)
+    
+
+
+
 
