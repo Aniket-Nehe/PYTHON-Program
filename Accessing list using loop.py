@@ -20,4 +20,4 @@ index = 0  # Start at the first element
 # Using a while loop to access and print each element
 while index < len(my_list):
     print(my_list[index])
-    index += 2
+    index += 1

@@ -220,9 +220,10 @@ print(a,max(x,y,z))'''
 str="Aniket Nehe"
 rev=" "
 for i in str:
-    rev=i+rev
-print(rev)
-    
+    reverse=i + rev
+print(reverse)
+
+#21
 
 
 
