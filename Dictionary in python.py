@@ -118,3 +118,4 @@ new_dict_with_value = dict.fromkeys(['a', 'b', 'c'], 100)
 print(new_dict_with_value) # Output: {'a': 100, 'b': 100, 'c': 100}
 
 print()
+

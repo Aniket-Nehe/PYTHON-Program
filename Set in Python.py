@@ -12,8 +12,8 @@ print()
 
 #Creating Empty Set in Python
 print("-------------Empty Set()------------")
-empty_set = {set()}
-print(empty_set)  # Output: set()
+# empty_set = set()
+# print(empty_set)  # Output: set()
 print()
 
 # Adding and Removing Elements in Set:
@@ -92,7 +92,6 @@ set1 = {1, 2, 3, 4}
 set2 = {3, 4, 5, 6}
 print("set1=",set1)
 print("set2=",set2)
-
 print()
 
 # Union (| or union() method):
